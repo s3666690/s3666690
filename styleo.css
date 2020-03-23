@@ -1,0 +1,35 @@
+html, body {background: #6D326D; font-family: 'Calibri', Arial, sans-serif; font-size: 16px; color: #170EB7;}
+
+#personalprofile h1 {font-size: 1.6em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#personalprofile h2 {font-size: 1.3em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#interestininformationtechnology h1 {font-size: 1.6em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#interestininformationtechnology h2 {font-size: 1.3em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#myidealjob h1 {font-size: 1.6em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#myidealjob h2 {font-size: 1.3em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#myidealjob h3 {font-size: 1.1em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#psychometrictesting h1 {font-size: 1.6em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#psychometrictesting h2 {font-size: 1.3em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#projectidea h1 {font-size: 1.6em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#projectidea h2 {font-size: 1.3em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#references h1 {font-size: 1.6em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+section {padding: 25px 35px; border-bottom: 2px solid #6D326D}
+
+#head title {font-size: 2em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+
+#head {width: 85%; max-width: 800px; background: #F9FDFF; margin: 20px auto; padding: 25px 35px; border-bottom: 2px solid #6D326D;}
+
+#body {width: 85%; max-width: 800px; background: #F9FDFF; margin: 20px auto;}
+
+img {width: 60%; max-width: 510px; height: auto;}
