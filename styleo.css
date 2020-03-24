@@ -26,9 +26,9 @@ html, body {background: #6D326D; font-family: 'Calibri', Arial, sans-serif; font
 
 section {padding: 25px 35px; border-bottom: 2px solid #6D326D}
 
-#head title {font-size: 2em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif;}
+#header h1 {font-size: 2em; margin-left: 2px; font-family: 'Calibri', Arial, sans-serif; color: #170EB7;}
 
-#head {width: 85%; max-width: 800px; background: #F9FDFF; margin: 20px auto; padding: 25px 35px; border-bottom: 2px solid #6D326D;}
+#header {width: 85%; max-width: 800px; background: #F9FDFF; margin: 20px auto; padding: 25px 35px; border-bottom: 2px solid #6D326D;}
 
 #body {width: 85%; max-width: 800px; background: #F9FDFF; margin: 20px auto;}
 
